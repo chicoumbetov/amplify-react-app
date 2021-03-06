@@ -1,0 +1,2 @@
+(this["webpackJsonpamplify-react-app"]=this["webpackJsonpamplify-react-app"]||[]).push([[20],{204:function(t,e,n){"use strict";n.r(e),n.d(e,"amplify_container",(function(){return c}));var i=n(8),c=function(){function t(t){Object(i.k)(this,t)}return t.prototype.render=function(){return Object(i.i)(i.b,null,Object(i.i)("slot",null))},t}();c.style=":host{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=20.d4add1f4.chunk.js.map
